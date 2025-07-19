@@ -67,6 +67,9 @@
 > Yes! You can play games directly on my profile 🤯
 
 <div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/koddr/github-profile-readme-dino/main/dino.gif" alt="Dino Run" width="600"/>
+</p>
 
 <!-- Snake Game -->
 <a href="https://github.com/Platane/snk" title="Play Snake Game">
