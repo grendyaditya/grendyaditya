@@ -60,6 +60,12 @@
 
 ---
 
+## 🎮 Main Game Interaktif
+
+[![Play Rock Paper Scissors](https://img.shields.io/badge/Mainkan%20GuntingBatuKertas-blue?style=for-the-badge)](https://grendypangestu.github.io/rock-paper-scissors)
+
+---
+
 ### 🐍 Snake Animation
 
 <p align="center">
