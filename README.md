@@ -61,13 +61,7 @@
 </p>
 
 ---
-### 🐤 Play My Flappy Bird
 
-<p align="center">
-  <a href="https://grendyaditya.github.io/flappy-bird/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Flappy%20Bird%20🐤-blue?style=for-the-badge&logo=flutter" />
-  </a>
-</p>
 
 ---
 
@@ -79,6 +73,3 @@
 
 ---
 
-<p align="center">
-  💡 <i>“Creating fun, simple, and meaningful games for everyone.”</i>
-</p>
