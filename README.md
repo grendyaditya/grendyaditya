@@ -51,14 +51,6 @@
 | 🟢 [Laravel Starter App](https://github.com/grendyaditya/my-laravel-app) | Basic web app starter for Laravel projects |
 | 🛠️ *Coming Soon* | Unity & Roblox multiplayer projects with economy and AI
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grendyaditya&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grendyaditya&layout=compact&theme=tokyonight" height="180" />
-</p>
 
 ---
 
