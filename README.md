@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Grendy 👋</h1>
+<h1 align="center">Hi, I'm Grendy Aditya Pangestu👋</h1>
 
 <p align="center">
   🎮 Game Developer | 💻 Web Developer | 🎓 Game Tech Student @ PENS<br>
