@@ -59,8 +59,13 @@
 
 
 ---
+## 🎮 Another DinoRun Game
 
-## 🎮 Main Game Interaktif
+Mainkan game DinoRun versi aku yang lebih seru dan menantang!
+
+[![Mainkan Another DinoRun](https://img.shields.io/badge/Mainkan%20Another-DinoRun-blue?style=for-the-badge)](https://grendyaditya.github.io/another-dinorun)
+
+## 🎮 Main Game Guntung Batu Kertas
 
 [![Play Rock Paper Scissors](https://img.shields.io/badge/Mainkan%20GuntingBatuKertas-blue?style=for-the-badge)](https://grendyaditya.github.io/rock-paper-scissors)
 
