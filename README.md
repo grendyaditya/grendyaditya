@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.imgur.com/2jvW1pB.gif" alt="Anime Banner" width="100%" />
+</p>
+
+
 <h1 align="center">Hi, I'm Grendy 👋</h1>
 
 <p align="center">
