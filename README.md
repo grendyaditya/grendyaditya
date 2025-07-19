@@ -67,19 +67,18 @@
 > Yes! You can play games directly on my profile 🤯
 
 <div align="center">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/koddr/github-profile-readme-dino/main/dino.gif" alt="Dino Run" width="600"/>
-</p>
 
-<!-- Snake Game -->
-<a href="https://github.com/Platane/snk" title="Play Snake Game">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grendyaditya/grendyaditya/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grendyaditya/grendyaditya/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/grendyaditya/grendyaditya/output/pacman-contribution-graph.svg">
+</picture>
 
-<!-- Pacman Game -->
-<a href="https://github.com/Josee9988/pacman" title="Play Pacman Game">
-  <img src="https://raw.githubusercontent.com/Josee9988/pacman/main/pacman.svg" width="400" alt="Play Pacman Game" />
-</a>
+###
+
+<img src="https://raw.githubusercontent.com/grendyaditya/grendyaditya/output/snake.svg" alt="Snake animation" />
+
+###
 
 </div>
 
