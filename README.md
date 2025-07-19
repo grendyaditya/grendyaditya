@@ -73,9 +73,27 @@
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grendyadityapangestu)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/grendypangestu)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/grendypangestu)
+<p align="left">
+  <a href="mailto:grendyadityapangestu@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/grendyadityapangestu" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/grendypangestu" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/grendypangestu?t=8M5KY-OUPnCWftoOmeciKw" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://your-portfolio-url.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about-dot-me&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
