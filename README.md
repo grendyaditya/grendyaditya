@@ -73,14 +73,9 @@
 
 ### 🤝 Connect with Me
 
-[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/grendyadityapangestu#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/grendyadityapangestu#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://instagram.com/grendypangestu#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](https://instagram.com/grendypangestu#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![x](./img/x-light.svg)](https://x.com/grendypangestu#gh-light-mode-only)
-[![x](./img/x-dark.svg)](https://x.com/grendypangestu#gh-dark-mode-only)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grendyadityapangestu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/grendypangestu)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/grendypangestu)
 
 ---
 
