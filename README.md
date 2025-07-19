@@ -62,7 +62,7 @@
 
 ## 🎮 Main Game Interaktif
 
-[![Play Rock Paper Scissors](https://img.shields.io/badge/Mainkan%20GuntingBatuKertas-blue?style=for-the-badge)](https://grendypangestu.github.io/rock-paper-scissors)
+[![Play Rock Paper Scissors](https://img.shields.io/badge/Mainkan%20GuntingBatuKertas-blue?style=for-the-badge)](https://grendyaditya.github.io/rock-paper-scissors)
 
 ---
 
