@@ -69,33 +69,12 @@
 </p>
 
 ---
-
-### 👻 Pacman SVG
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Josee9988/pacman/main/pacman.svg" width="400" alt="Play Pacman Game" />
-</p>
-
----
-
-### 🦖 Dino Run Section
+### 🐤 Play My Flappy Bird
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/koddr/github-profile-readme-dino/main/dino.gif" alt="Dino Run" width="600"/>
-</p>
-
-<p align="center">
-  <a href="https://grendyaditya.github.io/dino-run" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Dino%20Run%20Game%20🎮-black?style=for-the-badge&logo=google-chrome" />
+  <a href="https://grendyaditya.github.io/flappy-bird/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Flappy%20Bird%20🐤-blue?style=for-the-badge&logo=flutter" />
   </a>
-</p>
-
----
-
-### 🖼️ Anime Style Vibe
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/85/d8/cb/85d8cbcb768d042b684c9a4a727f3a91.gif" width="200" alt="Anime Dev" />
 </p>
 
 ---
