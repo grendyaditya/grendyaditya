@@ -49,7 +49,7 @@
 
 <p align="center">
 
-[![Play Another DinoRun](https://img.shields.io/badge/Play%20Another%20DinoRun-blue?style=for-the-badge)](https://grendyaditya.github.io/another-dinorun) &nbsp;&nbsp;&nbsp;&nbsp; [![Play Scissors Rock](https://img.shields.io/badge/Play%20Scissors%20Rock-blue?style=for-the-badge)](https://grendyaditya.github.io/rock-paper-scissors)
+[![Play Another DinoRun](https://img.shields.io/badge/Play%20Another%20DinoRun-blue?style=for-the-badge)](https://grendyaditya.github.io/another-dinorun) &nbsp;&nbsp;&nbsp;&nbsp; [![Play Russian Roulette: Rock Paper Scissors](https://img.shields.io/badge/Play%20Scissors%20Rock-blue?style=for-the-badge)](https://grendyaditya.github.io/rock-paper-scissors)
 
 </p>
 
