@@ -1,8 +1,7 @@
-<h1 align="center">Hi, I'm Grendy Aditya Pangestu👋</h1>
+<h1>Hi, I'm Grendy👋</h1>
 
-<p align="center">
-  🎮 Game Developer | 💻 Web Developer | 🎓 Game Tech Student @ PENS<br>
-  🇮🇩 Based in Surabaya, Indonesia
+<p>
+  🎮 Game Developer | 💻 Web Developer | 🎓 Game Tech Student @PENS 🇮🇩 Based in Surabaya, Indonesia
 </p>
 
 ---
