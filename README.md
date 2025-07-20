@@ -59,22 +59,23 @@
 
 
 ---
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<h2 align="center">🎮 Play Minigame 🎮</h2>
 
-  <div style="text-align: center;">
-    <h3>🎮 Another DinoRun Game</h3>
-    <a href="https://grendyaditya.github.io/another-dinorun">
-      <img src="https://img.shields.io/badge/Mainkan%20Another-DinoRun-blue?style=for-the-badge" alt="Mainkan Another DinoRun">
-    </a>
-  </div>
-
-  <div style="text-align: center;">
-    <h3>🎮 Gunting Batu Kertas</h3>
-    <a href="https://grendyaditya.github.io/rock-paper-scissors">
-      <img src="https://img.shields.io/badge/Mainkan%20GuntingBatuKertas-blue?style=for-the-badge" alt="Mainkan Gunting Batu Kertas">
-    </a>
-  </div>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://grendyaditya.github.io/another-dinorun">
+          <img src="https://img.shields.io/badge/Play%20Another%20DinoRun-blue?style=for-the-badge" alt="Play Another DinoRun">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://grendyaditya.github.io/rock-paper-scissors">
+          <img src="https://img.shields.io/badge/Play%20Scissors%20Rock-blue?style=for-the-badge" alt="Play Scissors Rock">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
