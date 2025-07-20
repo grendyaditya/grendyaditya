@@ -59,15 +59,23 @@
 
 
 ---
-## 🎮 Another DinoRun Game
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-Mainkan game DinoRun versi aku yang lebih seru dan menantang!
+  <div style="text-align: center;">
+    <h3>🎮 Another DinoRun Game</h3>
+    <a href="https://grendyaditya.github.io/another-dinorun">
+      <img src="https://img.shields.io/badge/Mainkan%20Another-DinoRun-blue?style=for-the-badge" alt="Mainkan Another DinoRun">
+    </a>
+  </div>
 
-[![Mainkan Another DinoRun](https://img.shields.io/badge/Mainkan%20Another-DinoRun-blue?style=for-the-badge)](https://grendyaditya.github.io/another-dinorun)
+  <div style="text-align: center;">
+    <h3>🎮 Gunting Batu Kertas</h3>
+    <a href="https://grendyaditya.github.io/rock-paper-scissors">
+      <img src="https://img.shields.io/badge/Mainkan%20GuntingBatuKertas-blue?style=for-the-badge" alt="Mainkan Gunting Batu Kertas">
+    </a>
+  </div>
 
-## 🎮 Main Game Guntung Batu Kertas
-
-[![Play Rock Paper Scissors](https://img.shields.io/badge/Mainkan%20GuntingBatuKertas-blue?style=for-the-badge)](https://grendyaditya.github.io/rock-paper-scissors)
+</div>
 
 ---
 
