@@ -60,63 +60,13 @@
 
 ---
 
-<style>
-  .minigame-container {
-    display: flex;
-    justify-content: center;
-    gap: 100px;
-    flex-wrap: wrap;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-top: 40px;
-  }
-  .minigame-card {
-    text-align: center;
-    max-width: 180px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    cursor: pointer;
-    border-radius: 12px;
-    padding: 15px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
-    background: #fff;
-  }
-  .minigame-card:hover {
-    transform: translateY(-8px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.18);
-  }
-  .minigame-card img {
-    width: 100%;
-    height: auto;
-    border-radius: 8px;
-    user-select: none;
-  }
-  .minigame-title {
-    margin-top: 12px;
-    font-weight: 700;
-    font-size: 20px;
-    color: #0070f3;
-  }
-  h2.minigame-header {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: 700;
-    font-size: 28px;
-    text-align: center;
-    margin-bottom: 8px;
-    color: #222;
-  }
-</style>
 
-<h2 class="minigame-header">🎮 Play Minigame 🎮</h2>
+## 🎲 Play Minigames !!
 
-<div class="minigame-container">
-  <a href="https://grendyaditya.github.io/another-dinorun" class="minigame-card" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Play%20Another%20DinoRun-blue?style=for-the-badge" alt="Play Another DinoRun" />
-    <div class="minigame-title">Another DinoRun</div>
-  </a>
+<div align="center">
 
-  <a href="https://grendyaditya.github.io/rock-paper-scissors" class="minigame-card" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Play%20Scissors%20Rock-blue?style=for-the-badge" alt="Play Scissors Rock" />
-    <div class="minigame-title">Scissors Rock</div>
-  </a>
+[![Play Another DinoRun](https://img.shields.io/badge/Play%20Another%20DinoRun-blue?style=for-the-badge)](https://grendyaditya.github.io/another-dinorun) &nbsp;&nbsp;&nbsp;&nbsp; [![Play Scissors Rock](https://img.shields.io/badge/Play%20Scissors%20Rock-blue?style=for-the-badge)](https://grendyaditya.github.io/rock-paper-scissors)
+
 </div>
 
 
