@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Grendy Aditya Pangestu 👋</h1>
+<h1 align="center">Hi, I'm Grendy Aditya Pangestu👋</h1>
 
 <p align="center">
   🎮 Game Developer | 💻 Web Developer | 🎓 Game Tech Student @ PENS<br>
@@ -9,20 +9,17 @@
 
 ### 🧠 About Me
 
-<p align="center">
-- 🎓 I’m an undergraduate student in <strong>Game Technology</strong> at Politeknik Elektronika Negeri Surabaya (PENS)<br>
-- 🎮 I build games using <strong>Unity</strong>, <strong>Godot</strong>, and <strong>Roblox Studio</strong><br>
-- 💻 I develop websites and backend using <strong>Laravel</strong>, <strong>PHP</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong><br>
-- 🕹️ Passionate about multiplayer systems, leaderboards, and monetization<br>
+- 🎓 I’m an undergraduate student in **Game Technology** at Politeknik Elektronika Negeri Surabaya (PENS)
+- 🎮 I build games using **Unity**, **Godot**, and **Roblox Studio**
+- 💻 I develop websites and backend using **Laravel**, **PHP**, **HTML**, **CSS**, **JavaScript**
+- 🕹️ Passionate about multiplayer systems, leaderboards, and monetization
 - 🔭 Currently working on Roblox economy gameplay and Godot experiments
-</p>
 
 ---
-
 ### 🛠️ Tech Stack
 
 #### 💻 Web Development
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
@@ -32,7 +29,7 @@
 </p>
 
 #### 🎮 Game Development
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity"/>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white" alt="Godot"/>
   <img src="https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white" alt="Roblox"/>
@@ -42,26 +39,24 @@
 </p>
 
 #### 🧰 Tools & Others
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
+
 ---
 
 ### 🎮 Game Projects
-
-<p align="center">
 
 | Project | Description |
 |--------|-------------|
 | 🟣 [Platformer Game - Godot](https://github.com/grendyaditya/project-game-platformer-godot) | A 2D platformer game made with Godot Engine |
 | 🟢 [Laravel Starter App](https://github.com/grendyaditya/my-laravel-app) | Basic web app starter for Laravel projects |
-| 🛠️ *Coming Soon* | Unity & Roblox multiplayer projects with economy and AI |
+| 🛠️ *Coming Soon* | Unity & Roblox multiplayer projects with economy and AI
 
-</p>
 
 ---
 
@@ -73,6 +68,7 @@
 
 </p>
 
+
 ---
 
 ### 🐍 Snake Animation
@@ -83,13 +79,14 @@
 
 ---
 
-### 🤝 Connect with Me
 
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grendyadityapangestu) &nbsp;
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/grendypangestu) &nbsp;
-  [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/grendypangestu) &nbsp;
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:grendyadityapangestu@gmail.com)
-</p>
+---
+
+### 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grendyadityapangestu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/grendypangestu)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/grendypangestu)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:grendyadityapangestu@gmail.com)
+
 
 ---
