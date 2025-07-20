@@ -59,23 +59,28 @@
 
 
 ---
-<h2 align="center">🎮 Play Minigame 🎮</h2>
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-bottom: 24px;">
+  🎮 Play Minigame 🎮
+</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://grendyaditya.github.io/another-dinorun">
-          <img src="https://img.shields.io/badge/Play%20Another%20DinoRun-blue?style=for-the-badge" alt="Play Another DinoRun">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://grendyaditya.github.io/rock-paper-scissors">
-          <img src="https://img.shields.io/badge/Play%20Scissors%20Rock-blue?style=for-the-badge" alt="Play Scissors Rock">
-        </a>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; justify-content: center; gap: 80px; flex-wrap: wrap;">
+  <div style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    <a href="https://grendyaditya.github.io/another-dinorun" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Play%20Another%20DinoRun-blue?style=for-the-badge" alt="Play Another DinoRun" />
+    </a>
+    <div style="margin-top: 8px; font-weight: 600; font-size: 18px; color: #0366d6;">
+      🎮Another DinoRun🎮
+    </div>
+  </div>
+
+  <div style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    <a href="https://grendyaditya.github.io/rock-paper-scissors" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Play%20Scissors%20Rock-blue?style=for-the-badge" alt="Play Scissors Rock" />
+    </a>
+    <div style="margin-top: 8px; font-weight: 600; font-size: 18px; color: #0366d6;">
+      🎮Rock Paper Scissors🎮
+    </div>
+  </div>
 </div>
 
 ---
