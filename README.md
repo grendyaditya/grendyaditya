@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJ1bjB6aTEyczJqNDFhcnB1NjFicTl1a215Z2VqODdkNzhmb2s2NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VCma6o7KQ4H4Y/giphy.gif" width="660" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGZtOHhibzN4OG16enhzeWNoMHZ1YmVoM3NqcmZ0ejhmb2wydXJhcCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="660" />
 </p>
 <p>
   <a href="https://x.com/grendypangestu">
