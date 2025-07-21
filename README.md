@@ -2,12 +2,17 @@
 <p >
   🎮 Game Developer | 💻 Web Developer | 🎓 Game Tech Student @PENS 🇮🇩 Based in Surabaya, Indonesia
 </p>
+<style>
+  p {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+</style>
 
-<div align="left">
+
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGZtOHhibzN4OG16enhzeWNoMHZ1YmVoM3NqcmZ0ejhmb2wydXJhcCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="660" />
-  
-  <br><br>
-  
+<div>
   <a href="https://x.com/grendypangestu">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" height="30" />
   </a>
