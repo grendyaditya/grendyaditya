@@ -2,13 +2,7 @@
 <p >
   🎮 Game Developer | 💻 Web Developer | 🎓 Game Tech Student @PENS 🇮🇩 Based in Surabaya, Indonesia
 </p>
-<style>
-  p {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-</style>
+
 
 
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGZtOHhibzN4OG16enhzeWNoMHZ1YmVoM3NqcmZ0ejhmb2wydXJhcCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="660" />
