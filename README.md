@@ -3,10 +3,11 @@
   🎮 Game Developer | 💻 Web Developer | 🎓 Game Tech Student @PENS 🇮🇩 Based in Surabaya, Indonesia
 </p>
 
-<p>
+<div align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGZtOHhibzN4OG16enhzeWNoMHZ1YmVoM3NqcmZ0ejhmb2wydXJhcCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="660" />
-</p>
-<p>
+  
+  <br><br>
+  
   <a href="https://x.com/grendypangestu">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" height="30" />
   </a>
@@ -17,10 +18,10 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="30" />
   </a>
   <a href="mailto:grendyadityapangestu@gmail.com">
-  <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-</a>
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  </a>
+</div>
 
-</p>
 
 ---
 
