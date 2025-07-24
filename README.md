@@ -10,7 +10,7 @@
   <a href="https://x.com/grendypangestu">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" height="30" />
   </a>
-  <a href="https://www.linkedin.com/in/grendyadityapangestu">
+  <a href="https://www.linkedin.com/in/grendypangestu">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   <a href="https://instagram.com/grendypangestu">
@@ -76,9 +76,16 @@
 
 <p align="center">
 
-[![Play Another DinoRun](https://img.shields.io/badge/Play%20Another%20DinoRun-blue?style=for-the-badge)](https://grendyaditya.github.io/another-dinorun) &nbsp;&nbsp;&nbsp;&nbsp; [![Play Russian Roulette: Rock Paper Scissors](https://img.shields.io/badge/Play%20Russian%20Roulette%3A%20Rock%20Paper%20Scissors-blue?style=for-the-badge)](https://grendyaditya.github.io/rock-paper-scissors)
+[![Play Another DinoRun](https://img.shields.io/badge/Play%20Another%20DinoRun-blue?style=for-the-badge)](https://grendyaditya.github.io/another-dinorun)  
+&nbsp;&nbsp;&nbsp;&nbsp; 
+[![Play Russian Roulette: Rock Paper Scissors](https://img.shields.io/badge/Play%20Russian%20Roulette%3A%20Rock%20Paper%20Scissors-blue?style=for-the-badge)](https://grendyaditya.github.io/rock-paper-scissors)  
+&nbsp;&nbsp;&nbsp;&nbsp; 
+[![Play 2D Racer Game](https://img.shields.io/badge/Play%202D%20Racer%20Game-blue?style=for-the-badge)](https://grendyaditya.github.io/2d-racer-game)  
+&nbsp;&nbsp;&nbsp;&nbsp; 
+[![Play Type Racer](https://img.shields.io/badge/Play%20Type%20Racer-blue?style=for-the-badge)](https://grendyaditya.github.io/type-racer)
 
 </p>
+
 
 
 ---
