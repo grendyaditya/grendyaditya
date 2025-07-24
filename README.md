@@ -76,15 +76,24 @@
 
 <p align="center">
 
-[![Play Another DinoRun](https://img.shields.io/badge/Play%20Another%20DinoRun-blue?style=for-the-badge)](https://grendyaditya.github.io/another-dinorun)  
-&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Play Russian Roulette: Rock Paper Scissors](https://img.shields.io/badge/Play%20Russian%20Roulette%3A%20Rock%20Paper%20Scissors-blue?style=for-the-badge)](https://grendyaditya.github.io/rock-paper-scissors)  
-&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Play 2D Racer Game](https://img.shields.io/badge/Play%202D%20Racer%20Game-blue?style=for-the-badge)](https://grendyaditya.github.io/2d-racer-game)  
-&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Play Type Racer](https://img.shields.io/badge/Play%20Type%20Racer-blue?style=for-the-badge)](https://grendyaditya.github.io/type-racer)
+  <a href="https://grendyaditya.github.io/another-dinorun">
+    <img src="https://img.shields.io/badge/Play%20Another%20DinoRun-blue?style=for-the-badge" alt="Play Another DinoRun">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://grendyaditya.github.io/rock-paper-scissors">
+    <img src="https://img.shields.io/badge/Play%20Russian%20Roulette%3A%20Rock%20Paper%20Scissors-blue?style=for-the-badge" alt="Play Russian Roulette: Rock Paper Scissors">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://grendyaditya.github.io/2d-racer-game">
+    <img src="https://img.shields.io/badge/Play%202D%20Racer%20Game-blue?style=for-the-badge" alt="Play 2D Racer Game">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://grendyaditya.github.io/type-racer">
+    <img src="https://img.shields.io/badge/Play%20Type%20Racer-blue?style=for-the-badge" alt="Play Type Racer">
+  </a>
 
 </p>
+
 
 
 
